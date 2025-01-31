@@ -49,4 +49,4 @@ A modern web-based Spotify clone with immersive music playback experience and el
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/spotify_clone.git
+git clone https://github.com/ashmitkmishra/spotify_clone.git
